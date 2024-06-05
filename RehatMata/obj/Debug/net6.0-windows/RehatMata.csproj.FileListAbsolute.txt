@@ -1,0 +1,16 @@
+D:\Visual Studio\RehatMata\RehatMata\bin\Debug\net6.0-windows\RehatMata.exe
+D:\Visual Studio\RehatMata\RehatMata\bin\Debug\net6.0-windows\RehatMata.deps.json
+D:\Visual Studio\RehatMata\RehatMata\bin\Debug\net6.0-windows\RehatMata.runtimeconfig.json
+D:\Visual Studio\RehatMata\RehatMata\bin\Debug\net6.0-windows\RehatMata.dll
+D:\Visual Studio\RehatMata\RehatMata\bin\Debug\net6.0-windows\RehatMata.pdb
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\RehatMata.Form1.resources
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\RehatMata.csproj.GenerateResource.cache
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\RehatMata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\RehatMata.AssemblyInfoInputs.cache
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\RehatMata.AssemblyInfo.cs
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\RehatMata.csproj.CoreCompileInputs.cache
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\RehatMata.dll
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\refint\RehatMata.dll
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\RehatMata.pdb
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\RehatMata.genruntimeconfig.cache
+D:\Visual Studio\RehatMata\RehatMata\obj\Debug\net6.0-windows\ref\RehatMata.dll
