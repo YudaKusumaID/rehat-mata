@@ -1,5 +1,5 @@
 <h1 align="center">
-  RehatMata
+  Rehat Mata
 </h1>
 
 <h4 align="center">A simple application to remind users to take breaks from their screens at regular intervals, built with C# Windows Forms.</h4>
@@ -44,9 +44,6 @@ $ git clone https://github.com/YudaKusumaID/rehatmata.git
 
 # Go into the repository
 $ cd rehatmata
-
-# Import the database to SQL Server
-$ Right-click on the database menu and select Import Data-tier Application
 
 # Open the solution in Visual Studio
 $ start RehatMata.sln
